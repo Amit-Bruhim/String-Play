@@ -105,8 +105,8 @@ The program will swap the case of letters in both Pstrings:
 
 #### Example 3: Copy Slice – pstrijcpy
 
-The program will ask for the **start and end indices** of the slice to copy from the first Pstring to the second.  
-For example, copying indices 1 to 3 from `Hello` to `World!`:
+The program will ask for the **start and end indices** of the slice to copy from the second Pstring to the first.  
+For example, copying indices 1 to 3 from `World!` to `Hello`:
 
 ![Menu Example](images/pstrijcpy%20example.png)
 

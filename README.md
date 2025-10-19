@@ -36,6 +36,7 @@ The project demonstrates basic Assembly programming concepts including function 
 
 - A Linux or Windows system with an x86-64 environment  
 - GCC (GNU Compiler) to assemble and link the program
+- Git for version control and project management
 
 ---
 
